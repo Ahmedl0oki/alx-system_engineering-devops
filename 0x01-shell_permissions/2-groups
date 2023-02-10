@@ -1,2 +1,2 @@
 #!/bin/bash
-getent group
+cd ../../getent group
